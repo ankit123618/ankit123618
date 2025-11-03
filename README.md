@@ -2,7 +2,7 @@
 
 # Welcome to Ankit Sharma's GitHub Profile 🚀
 
-![Ankit Sharma]<img width="200" height="283" alt="Image" src="https://github.com/user-attachments/assets/dacf5124-e053-4eaf-a552-510d96968570" />
+<img width="200" height="283" alt="Image" src="https://github.com/user-attachments/assets/dacf5124-e053-4eaf-a552-510d96968570" />![Ankit Sharma]
 
 ## About Me 👨‍💻
 
