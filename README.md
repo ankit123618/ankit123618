@@ -2,7 +2,7 @@
 
 # Welcome to Ankit Sharma's GitHub Profile 🚀
 
-![Ankit Sharma](https://yourimageurl.com)
+![Ankit Sharma][(https://photos.app.goo.gl/ankitsharma)]
 
 ## About Me 👨‍💻
 
