@@ -2,9 +2,6 @@
 
 # Welcome to Ankit Sharma's GitHub Profile 🚀
 
-<img width="200" height="283" alt="Image" src="https://github.com/user-attachments/assets/dacf5124-e053-4eaf-a552-510d96968570" />
-[Ankit Sharma]
-
 ## About Me 👨‍💻
 
 Hey there! I'm Ankit Sharma, a passionate software engineer from Jabalpur, Madhya Pradesh, India. With a deep love for art, science, and technology, I thrive on pushing boundaries and exploring new horizons in the world of programming and development. 
