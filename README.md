@@ -24,7 +24,7 @@ I dream of a world rich in knowledge, where technology serves as a catalyst for 
 ## Let's Connect 🤝
 
 - facebook: [Ankit Sharma](https://www.facebook.com/ankitbhai123618)
-- instagram: [Your YouTube Channel](https://www.instagrma.com/ankitbhai123618)
+- instagram: [Ankit Sharma](https://www.instagrma.com/ankitbhai123618)
 
 ## Let's Collaborate 🌐
 
