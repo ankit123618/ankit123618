@@ -8,10 +8,10 @@ Hey there! I'm Ankit Sharma, a passionate software engineer from Jabalpur, Madhy
 
 ## What I Do 🛠️
 
-- **Programming Languages:** C, C++, Python, PHP, Golang, JavaScript
-- **Web Development:** HTML, CSS, jQuery
+- **Software Development:** Web/Mobile/desktop
+- **Automation:** Linux
 - **Databases:** MySQL
-- **Additional Skills:** Graphic design, API integrations
+- **Additional Skills:** Graphic design, API, Docker, Git
 
 ## My Journey 🌟
 
