@@ -23,7 +23,7 @@ From creating innovative projects during my diploma and bachelor's degree to tea
 
 ## Let's Collaborate 🌐
 
-I'm always open to new opportunities and collaborations. Whether you have an exciting project idea or just want to connect, feel free to reach out. Together, let's make the world a better place through technology and innovation!
+I'm always open to new opportunities and collaborations. Whether you have an exciting project idea or just want to connect, feel free to reach out. Together, let's contribute to the world technology and innovation!
 
 <!--
 **ankit123618/ankit123618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
