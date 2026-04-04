@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Welcome to Ankit Sharma's GitHub Profile 🚀
+# Welcome to My GitHub Profile 🚀
 
 ## About Me 👨‍💻
 
@@ -17,14 +17,9 @@ Hey there! I'm Ankit Sharma, a passionate software engineer from Jabalpur, Madhy
 
 From creating innovative projects during my diploma and bachelor's degree to teaching students through my YouTube channel, my journey has been filled with exciting challenges and rewarding experiences. I've dabbled in everything from game development to international technologies, constantly seeking new avenues to expand my knowledge and skills.
 
-## My Vision 🌍
-
-I dream of a world rich in knowledge, where technology serves as a catalyst for positive change in every sector, be it software, medical, or transportation. Through my projects, books, and resources, I aim to empower others and contribute to the global pursuit of happiness and prosperity.
-
 ## Let's Connect 🤝
 
-- facebook: [Ankit Sharma](https://www.facebook.com/ankitbhai123618)
-- instagram: [Ankit Sharma](https://www.instagrma.com/ankitbhai123618)
+- linkedin: [Ankit Sharma](https://www.linkedin.com/in/ankitbhai158)
 
 ## Let's Collaborate 🌐
 
