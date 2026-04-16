@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>README Preview</title>
+  <style>
+    :root {
+      --bg: #f5fbff;
+      --panel: #ffffff;
+      --text: #143d63;
+      --muted: #4b78a2;
+      --accent: #1e90ff;
+      --line: #d6eaff;
+      --shadow: 0 24px 50px rgba(30, 144, 255, 0.12);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      color: var(--text);
+      background:
+        radial-gradient(circle at top left, rgba(30, 144, 255, 0.12), transparent 20%),
+        linear-gradient(180deg, #ffffff 0%, var(--bg) 100%);
+    }
+
+    .shell {
+      width: min(1100px, calc(100% - 32px));
+      margin: 32px auto;
+    }
+
+    .topbar {
+      display: flex;
+      justify-content: space-between;
+      gap: 16px;
+      align-items: center;
+      margin-bottom: 20px;
+      padding: 20px 24px;
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 22px;
+      box-shadow: var(--shadow);
+    }
+
+    .topbar h1 {
+      margin: 0;
+      font-size: clamp(1.4rem, 3vw, 2rem);
+      color: var(--accent);
+    }
+
+    .topbar p {
+      margin: 6px 0 0;
+      color: var(--muted);
+      line-height: 1.6;
+    }
+
+    .topbar a,
+    .topbar code {
+      white-space: nowrap;
+    }
+
+    .preview {
+      padding: 28px;
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 28px;
+      box-shadow: var(--shadow);
+      overflow-x: auto;
+    }
+
+    .markdown-body {
+      max-width: 980px;
+      margin: 0 auto;
+      line-height: 1.7;
+    }
+
+    .markdown-body img {
+      max-width: 100%;
+      height: auto;
+    }
+
+    .markdown-body table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 16px 0;
+    }
+
+    .markdown-body td,
+    .markdown-body th {
+      padding: 12px;
+      border: 1px solid var(--line);
+      vertical-align: top;
+    }
+
+    .markdown-body blockquote {
+      margin: 16px 0;
+      padding: 8px 18px;
+      border-left: 4px solid var(--accent);
+      color: var(--muted);
+      background: #f3f9ff;
+    }
+
+    .error {
+      padding: 18px;
+      border-radius: 16px;
+      background: #f1f8ff;
+      border: 1px solid #cfe7ff;
+      color: #1c5e9c;
+    }
+
+    @media (max-width: 720px) {
+      .shell {
+        width: min(100% - 20px, 1100px);
+        margin: 12px auto 20px;
+      }
+
+      .topbar,
+      .preview {
+        padding: 18px;
+        border-radius: 18px;
+      }
+
+      .topbar {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="shell">
+    <section class="topbar">
+      <div>
+        <h1>README Local Preview</h1>
+        <p>Start a small server in this folder, then open <code>http://localhost:8000/preview.html</code>.</p>
+      </div>
+      <a href="./README.md">Open raw README</a>
+    </section>
+
+    <section class="preview">
+      <article id="preview" class="markdown-body" aria-live="polite">Loading README preview...</article>
+    </section>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    const preview = document.getElementById("preview");
+
+    async function loadPreview() {
+      try {
+        const response = await fetch("./README.md", { cache: "no-store" });
+        if (!response.ok) {
+          throw new Error("Unable to load README.md");
+        }
+
+        const markdown = await response.text();
+        preview.innerHTML = marked.parse(markdown, { breaks: true, gfm: true });
+      } catch (error) {
+        preview.innerHTML = `
+          <div class="error">
+            <strong>Preview could not be loaded.</strong>
+            <p>Run <code>python3 -m http.server 8000</code> in this folder, then open <code>http://localhost:8000/preview.html</code>.</p>
+          </div>
+        `;
+      }
+    }
+
+    loadPreview();
+  </script>
+</body>
+</html>

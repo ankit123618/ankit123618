@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=78050c&text=Ankit%20Sharma&fontColor=fffdfb&fontSize=56&desc=Software%20Engineer%20%E2%80%A2%20Researcher%20%E2%80%A2%20Educator&descAlignY=62&animation=fadeIn" alt="Ankit Sharma banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=1E90FF&text=Ankit%20Sharma&fontColor=ffffff&fontSize=56&desc=Software%20Engineer&descAlignY=62&animation=fadeIn" alt="Ankit Sharma banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=700&size=28&pause=1200&color=931018&center=true&vCenter=true&width=900&lines=Building+clean%2C+useful%2C+research-driven+digital+products;Full-stack+development+%7C+Automation+%7C+Systems+thinking;Turning+raw+ideas+into+polished+software+experiences" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=700&size=28&pause=1200&color=1E90FF&center=true&vCenter=true&width=900&lines=Building+clean%2C+useful%2C+research-driven+digital+products;Full-stack+development+%7C+Automation+%7C+Systems+thinking;Turning+raw+ideas+into+polished+software+experiences" alt="Typing intro" />
 
 </div>
 
@@ -28,10 +28,10 @@ I am **Ankit Sharma** from **Jabalpur, Madhya Pradesh, India**. I build software
 
 ### Connect
 
-[![Website](https://img.shields.io/badge/Website-My%20Portfolio-930811?style=for-the-badge&logo=googlechrome&logoColor=fffdfb)](https://ankit123618.github.io/MyStaticWebsite/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankit%20Sharma-b60d17?style=for-the-badge&logo=linkedin&logoColor=fffdfb)](https://www.linkedin.com/in/ankitbhai158)
-[![Gmail](https://img.shields.io/badge/Gmail-ankitbhai158%40gmail.com-cf1620?style=for-the-badge&logo=gmail&logoColor=fffdfb)](mailto:ankitbhai158@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=ankit123618&style=for-the-badge&color=930811&label=Profile+Views)](https://github.com/ankit123618)
+[![Website](https://img.shields.io/badge/Website-My%20Portfolio-1E90FF?style=for-the-badge&logo=googlechrome&logoColor=ffffff)](https://ankit123618.github.io/MyStaticWebsite/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankit%20Sharma-1E90FF?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/ankitbhai158)
+[![Gmail](https://img.shields.io/badge/Gmail-ankitbhai158%40gmail.com-1E90FF?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:ankitbhai158@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=ankit123618&style=for-the-badge&color=1E90FF&label=Profile+Views)](https://github.com/ankit123618)
 
 ### Tools I Work With
 
@@ -93,8 +93,8 @@ I am **Ankit Sharma** from **Jabalpur, Madhya Pradesh, India**. I build software
 ## GitHub Snapshot
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ankit123618&show_icons=true&bg_color=fffdfb&title_color=931018&text_color=78050c&icon_color=cf1620&border_color=f1d1d4&hide=issues&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=ankit123618&background=FFFDFB&ring=CF1620&fire=CF1620&currStreakLabel=931018&sideLabels=78050C&currStreakNum=78050C&sideNums=78050C&dates=9A3940&border=F1D1D4" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ankit123618&show_icons=true&bg_color=f8fbff&title_color=1E90FF&text_color=0F3557&icon_color=1E90FF&border_color=cfe7ff&hide=issues&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=ankit123618&background=F8FBFF&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF&sideLabels=0F3557&currStreakNum=0F3557&sideNums=0F3557&dates=4F7EA8&border=CFE7FF" alt="GitHub streak" />
 </div>
 
 <div align="center">
@@ -109,6 +109,6 @@ I am **Ankit Sharma** from **Jabalpur, Madhya Pradesh, India**. I build software
 
 <div align="center">
   <a href="https://ankit123618.github.io/MyStaticWebsite/">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=930811&height=80&section=header&text=Explore%20My%20Website&fontColor=fffdfb&fontSize=28&animation=fadeIn" alt="Explore my website" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=1E90FF&height=80&section=header&text=Explore%20My%20Website&fontColor=ffffff&fontSize=28&animation=fadeIn" alt="Explore my website" />
   </a>
 </div>
