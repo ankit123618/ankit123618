@@ -12,7 +12,7 @@
 
 ## About Me
 
-I am **Ankit Sharma** from **Jabalpur, Madhya Pradesh, India**. I build software with a mix of engineering depth, practical product thinking, and visual clarity.
+I build software with a mix of engineering depth, practical product thinking, and visual clarity.
 
 - Working across **web, mobile, desktop, and automation**
 - Interested in **research-led problem solving**
@@ -30,7 +30,7 @@ I am **Ankit Sharma** from **Jabalpur, Madhya Pradesh, India**. I build software
 
 [![Website](https://img.shields.io/badge/Website-My%20Portfolio-1E90FF?style=for-the-badge&logo=googlechrome&logoColor=ffffff)](https://ankit123618.github.io/MyStaticWebsite/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankit%20Sharma-1E90FF?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/ankitbhai158)
-[![Gmail](https://img.shields.io/badge/Gmail-ankitbhai158%40gmail.com-1E90FF?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:ankitbhai158@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-as4808385%40gmail.com-1E90FF?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:as4808385@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=ankit123618&style=for-the-badge&color=1E90FF&label=Profile+Views)](https://github.com/ankit123618)
 
 ### Tools I Work With
