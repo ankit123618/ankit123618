@@ -38,11 +38,6 @@ I build software with a mix of engineering depth, practical product thinking, an
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,go,php,js,html,css,mysql,docker,git,linux,vscode&perline=7" alt="Tech stack icons" />
 </p>
-
-    </td>
-    <td width="38%" valign="top">
-      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding gif" width="100%" />
-    </td>
   </tr>
 </table>
 
@@ -95,10 +90,6 @@ I build software with a mix of engineering depth, practical product thinking, an
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ankit123618&show_icons=true&bg_color=f8fbff&title_color=1E90FF&text_color=0F3557&icon_color=1E90FF&border_color=cfe7ff&hide=issues&rank_icon=github" alt="GitHub stats" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=ankit123618&background=F8FBFF&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF&sideLabels=0F3557&currStreakNum=0F3557&sideNums=0F3557&dates=4F7EA8&border=CFE7FF" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ankit123618&theme=flat&margin-w=15&margin-h=15&no-frame=true&row=1&column=6" alt="GitHub trophies" />
 </div>
 
 ## Philosophy
